@@ -1,0 +1,22 @@
+
+var = salario_bruto
+var = salario_hora
+var = dias_por_mes
+var = horas_por_dia
+var = horas_por_mes
+
+	Print echo(Qual valor do salario bruto?)
+		$salario_bruto
+	
+	Print echo (Quantos dias trabalhados por mes)
+		$dias_por_mes
+		
+	Print echo (Quantas horas trabalhadas por dia)
+		$horas_por_dia
+		
+		if
+			($horas_por_dia . $dias_por_me) = $horas_por_mes
+		the
+			($salario_bruto / $horas_por_mes)
+	print echo (Voce ganha = $salario_hora reais por hora de trabalho)	
+	

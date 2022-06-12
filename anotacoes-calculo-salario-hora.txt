@@ -1,0 +1,14 @@
+
+2000 salario_bruto
+
+22 dias_por_mes
+
+8 horas_por_dia
+
+----------------------------------------
+22 dias_horas_por_mes x 8 horas_por_dia = 176 horas_por_mes
+
+2000 salario_bruto / 176 horas_por_mes = 11,36 salario_hora
+
+
+
