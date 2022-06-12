@@ -1,0 +1,30 @@
+Problema 3 - Chute o número
+
+	- Quais são os dados de entrada necessários?
+		valor aleatorio de 1 a 10
+		um chute do usuário
+
+	- O que devo fazaer com estes dados?
+		Pegar o valor aleatorio de 1 a 10 que foi gerado, e comparar com o chutado pelo usuario.
+		Se  o chute for maior ou menor que o valor gerado, alertar o usuari sobre isso e o deixar jogar novamente ate que acerte o numero que foi gerado.
+
+	- Quais são as restrições deste problema?
+		o programa não deve ser finalizado ate que o valor seja chutado corretamente
+		o usuario deve ser capaz de jogar quantas vezes quiser
+
+	- Qual é o resultado esperado?
+		O programa identificar que o valor chutado pelo usuari e igual ou valor gerado no inicio do programa
+
+	- Qual e a sequencia de passos a ser feita para chegar no resultado esperado?
+		Pdir para o usurio iniciar o programa
+		Sera gerado um valor aleatorio $numero_aleatorio porem nao pode ser apresentado ao usuario
+		Pedir para o usuario chutar um número de 1 a 10
+		validar se o usuario digitou um número valido de 1 a 10
+		guardar essa informação em uma variavel $chute_usuario
+		comparar o $chute_usuario = $numero aleatorio
+		Se sim, exibir a mensagem "Parabéns voce acertou o número"
+		Se não, o $chute_usuario > $numero_aleatorio exibir "Seu chute é maior que o numero gerado, tente outra vez"
+		Se não, o $chute_usuario < $numero_aleatorio exibir "Seu chute é menor que o numero gerado, tente outra vez"
+		Pedir para o usuario chutar outro número de 1 a 10
+		Validar se o usuario digitou um número valido de 1 a 10
+		Validar se o usuario digitou um número diferete do primeiro chute

@@ -1,0 +1,24 @@
+Problema 2 - Valor hora salario
+
+	- Quais são os dados de entrada necessários?
+		Salario mensal
+		horas trabalhadas
+
+	- O que devo fazaer com estes dados?
+		Devo usar eles para calcular o valor hora que o funcionario recebe usando o calculo salario mensal / horas trabalhadas
+
+	- Quais são as restrições deste problema?
+		Os valores devem ser entregues somente em formato de salario por hora
+
+	- Qual é o resultado esperado?
+		O valor hora que o um funcionario recebe
+
+	- Qual e a sequencia de passos a ser feita para chegar no resultado esperado?
+		Perguntar qual salario bruto
+		Guardar essa informção em uma variavel chamada $salario_bruto com o tipo real
+
+		Perguntar quantas horas trabalhadas por mes
+		Guardar essa informação em uma variavel chamada $horas_mes com o tipo inteiro
+
+		Subtrair o valor da variavel $salario_bruto por valor da variavel $horas_mes
+		Mostrar o resultado em real.
