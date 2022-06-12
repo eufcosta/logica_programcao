@@ -1,0 +1,27 @@
+Oque sao algoritimos e como montar algoritimos do zero
+
+1. O que são algoritimos
+	Um algoritimo é simplresmente uma série de instruções
+	a serem seguidas, para resolver um problema.
+
+2. Quando algoritmos devem ser criados
+	Sempre que queremos montar uma sequencia de passos
+	necessario para solucionar um problema
+
+3. Qual é a estratégia para montar um algoritimo
+	Quando alguem te apresenta um problema a ser resolvido
+	Quando você encontra um problema a ser resolvido
+
+
+4. Analise critiamente o problema e descubra:
+	Tenten explicar para voce mesmo em voz alta e peça mais informações
+	investigue mais até voce compreender completamente o problema
+
+5. Medoto 5Q's	 para montar uma algoritimo.
+
+	1.Quais são os dados de entrada necessários?
+	2.O que devo fazaer com estes dados?
+	3.Quais são as restrições deste problema?
+	4.Qual é o resultado esperado?
+	5.Qual e a sequencia de passos a ser feita para chegar no resultado esperado?
+
