@@ -25,3 +25,31 @@ Oque sao algoritimos e como montar algoritimos do zero
 	4.Qual é o resultado esperado?
 	5.Qual e a sequencia de passos a ser feita para chegar no resultado esperado?
 
+
+Problema 1 - Ligar para um amigo
+
+	- Quais são os dados de entrada necessários?
+		Um telefone
+		Um numero de celular
+
+	- O que devo fazaer com estes dados?
+		Usar o celular para discar o numero
+
+	- Quais são as restrições deste problema?
+		Caso meu amigo não atenda, devo deixar uma mensagem dizendo "Me ligue de volta!"
+
+	- Qual é o resultado esperado?
+		Consigar ligar par um aligo
+
+	- Qual e a sequencia de passos a ser feita para chegar no resultado esperado?
+		Pegar o telefone
+		Se tiver travado por senha, destrave o celular
+		Verificar se tem sinal de operadora
+		Abrir discador de telefone
+		Digita o numero do seu amigo
+		Apertar botão de "ligar"
+		Aguardar chamada
+		Se atendido, falar com o amigo
+		Desligar a ligação
+		Se cair na caixa postal, deixa uma mensagem
+		Desligar ligação
